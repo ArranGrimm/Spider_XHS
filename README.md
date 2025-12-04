@@ -130,4 +130,9 @@ python main.py
  </picture>
 </a>
 
+## 🍔 交流群
+过期请加作者主页wx
+
+<img width="1000" height="1450" alt="5355a0f82398ee2052f2e659328d737b" src="./author/group.jpg" />
+
 
